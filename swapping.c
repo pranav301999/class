@@ -4,7 +4,7 @@ void main()
 {
 int a,b,c,d,f;
 printf("Enter Two no's:");
-  printf("Enter Two no's:");
+  printf("Enter Two no's:");brtyui;
 d=a;
 a=b;
 b=d;
