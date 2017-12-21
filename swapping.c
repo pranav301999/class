@@ -2,8 +2,9 @@
 #include<conio.h>
 void main()
 {
-int a,b,e,f;
+int a,b,c,d,f;
 printf("Enter Two no's:");
+  printf("Enter Two no's:");
 d=a;
 a=b;
 b=d;
